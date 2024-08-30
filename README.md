@@ -13,4 +13,4 @@ This project focuses on performing sentiment analysis on financial news headline
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yosef-zewdu/StockSentimentCorrelation
+   git clone https://github.com/yosef-zewdu/StockSentimentCorrelation.git
